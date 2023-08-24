@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel, Next, Typescript**
 
-- 👨‍💻 All of my projects are available at [danilopgon.com](danilopgon.com)
-
 - 💬 Ask me about **React & Flask**
 
 - 📫 How to reach me **contacto@danilopgon.com**
