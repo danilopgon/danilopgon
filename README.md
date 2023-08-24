@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React & Flask**
 
-- 📫 How to reach me **contacto@danilopgon.com**
+- 📫 [Contact me](contacto@danilopgon.com)
 
 - 📄 Connect with me [in Linkedin](https://www.linkedin.com/in/danilopgon/?locale=en_US)
 
