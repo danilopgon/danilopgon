@@ -24,5 +24,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danilopgon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilopgon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy me a coffee
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/danilopgon) 
