@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rider Creator](https://github.com/danilopgon/proyecto-final-4geeks)
 
-- 🌱 I’m currently learning **Laravel, Next, Typescript**
+- 🌱 I’m currently learning **Laravel | Typescript | Next**
 
 - 💬 Ask me about **React & Flask**
 
