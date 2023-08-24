@@ -11,7 +11,8 @@
 
 - 📄 Connect with me [in Linkedin](https://www.linkedin.com/in/danilopgon/?locale=en_US)
 
-- ⚡ Fun fact **My band's name is Hotel Sur**
+- ⚡ Fun fact: I play in an Indie Rock band called [Hotel Sur](https://open.spotify.com/intl-es/artist/5ZsW4wbMl8qYFZ0L9xvBeu)
+
 
 
 ## 🌐 Socials:
