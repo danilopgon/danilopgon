@@ -1,11 +1,11 @@
-<h1>Hi there 👋, I'm danilopgon</h1>
+<h1>👋 Hi there, I'm danilopgon</h1>
 <h3>🚀 Full Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality.</h3>
 
 - 🔭 I’m currently working on [Rider Creator](https://github.com/danilopgon/proyecto-final-4geeks)
 
 - 🌱 I’m currently learning **Laravel | Typescript | Next**
 
-- 💬 Ask me about **React & Flask**
+- 💬 I'm looking for projects and job opportunities with **React & Flask**
 
 - 📫 [Contact me](mailto:contacto@danilopgon.com)
 
