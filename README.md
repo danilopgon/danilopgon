@@ -1,5 +1,8 @@
 ![danilopgon description: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/a20795cc-5ceb-4f78-a90c-deba699c8682)
 
+![danilopgon: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality  (1)](https://github.com/danilopgon/danilopgon/assets/113547781/d47047be-c45d-46d4-8cc0-5001c15c8cc5)
+
+
 - 🖥️ I’m currently working on [Rider Creator](https://github.com/danilopgon/proyecto-final-4geeks)
 
 - 🌱 I’m currently learning **Laravel | Typescript | Next**
