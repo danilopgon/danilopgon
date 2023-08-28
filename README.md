@@ -1,7 +1,5 @@
-![danilopgon description: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/a20795cc-5ceb-4f78-a90c-deba699c8682)
 
-![danilopgon: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality  (1)](https://github.com/danilopgon/danilopgon/assets/113547781/d47047be-c45d-46d4-8cc0-5001c15c8cc5)
-
+![danilopgon: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/f969d978-7a85-435c-8f5e-2bab19135ae3)
 
 - 🖥️ I’m currently working on [Rider Creator](https://github.com/danilopgon/proyecto-final-4geeks)
 
