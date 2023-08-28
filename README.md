@@ -1,5 +1,5 @@
 
-![Diseño sin título (1)](https://github.com/danilopgon/danilopgon/assets/113547781/df3e6fb1-206d-432a-a236-216ff15d9125)
+![danilopgon description: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/df3e6fb1-206d-432a-a236-216ff15d9125)
 
 - 🖥️ I’m currently working on [Rider Creator](https://github.com/danilopgon/proyecto-final-4geeks)
 
