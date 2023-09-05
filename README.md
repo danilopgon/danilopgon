@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Laravel | Typescript | Next**
 
-- 💬 I'm looking for projects and job opportunities with **React & Flask**
+- 💬 I'm looking for freelance projects and job opportunities
 
 - 📫 [Contact me](mailto:contacto@danilopgon.com)
 
