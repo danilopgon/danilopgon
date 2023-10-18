@@ -2,7 +2,7 @@
 
 - 🖥️ I’m currently working on [my new portfolio](https://github.com/danilopgon/portfolio-2023)
 
-- 🌱 I’m currently learning **Laravel | Typescript | Next**
+- 🌱 I’m currently learning **Laravel | PHP | Vue**
 
 - 💬 I'm looking for freelance projects and job opportunities
 
