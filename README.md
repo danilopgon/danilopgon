@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Laravel | PHP | Vue**
 
-- 💬 I'm looking for freelance projects and job opportunities
-
 - 📫 [Contact me](mailto:contacto@danilopgon.com)
 
 - 📄 Connect with me [in Linkedin](https://www.linkedin.com/in/danilopgon/?locale=en_US)
