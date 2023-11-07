@@ -2,8 +2,6 @@
 
 - 🖥️ I’m currently working on [DeWedd]()
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 [Contact me](mailto:contacto@danilopgon.com)
 
 - 📄 Connect with me [in Linkedin](https://www.linkedin.com/in/danilopgon/?locale=en_US)
