@@ -2,7 +2,7 @@
 
 - 🖥️ I’m currently working on [DeWedd]()
 
-- 🌱 I’m currently learning **Laravel | PHP | Vue**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 [Contact me](mailto:contacto@danilopgon.com)
 
