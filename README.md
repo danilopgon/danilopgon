@@ -1,4 +1,4 @@
-![danilopgon: Full-Stack Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/c766af1b-d381-4699-89c5-0fb509a43678)
+![Developer with a knack for crafting engaging digital experiences that blend eye-catching design and robust functionality](https://github.com/danilopgon/danilopgon/assets/113547781/d6a75ce4-9105-4328-ab47-f3f9a414e3af)
 
 - 🖥️ I’m currently working with [Servinet](https://www.servinet.net/)
 
