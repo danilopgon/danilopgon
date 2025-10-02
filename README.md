@@ -6,7 +6,7 @@ Frontend developer focused on creating full digital experiences: from UI design 
 - 🖥️ Currently building stuff at [Servinet](https://www.servinet.net/)
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
-- 🥁 I also play in an indie rock band: [Hotel Sur](https://open.spotify.com/intl-es/artist/5ZsW4wbMl8qYFZ0L9xvBeu)
+- 🥁 I also play in an indie rock band: [Hotel Sur]((https://www.hotelsur.es/))
 
 ---
 
