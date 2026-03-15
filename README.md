@@ -1,19 +1,19 @@
 ### 👋 Hi there, I'm Dani
-Frontend Developer specialized in Angular and React, building scalable and accessible web applications.
-I work close to UX/UI, care about testing and maintainability, and use AI-assisted workflows to move faster without breaking things.
 
-I like my interfaces smooth, accessible and with just the right amount of noise.
+Frontend Engineer specialized in Angular and React.
+I care about architecture, clean abstractions, and interfaces that actually feel good to use.
+I work close to UX/UI, take testing seriously, and use AI-assisted workflows to move faster without losing the thread.
 
 ---
 
 - 🖥️ Currently building stuff at [Servinet](https://www.servinet.net/)
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
-- 🥁 I also play in an indie rock band: [Hotel Sur](https://www.hotelsur.es/)
+- 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) — yes, I made the website too
 
 ---
 
-## 💻 I like to work with:
+## 🛠️ What I build with
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
