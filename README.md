@@ -2,7 +2,7 @@
 Frontend Developer specialized in Angular and React, building scalable and accessible web applications.
 I work close to UX/UI, care about testing and maintainability, and use AI-assisted workflows to move faster without breaking things.
 
-I like my interfaces smooth, accessible, and with just the right amount of noise.
+I like my interfaces smooth, accessible and with just the right amount of noise.
 
 ---
 
