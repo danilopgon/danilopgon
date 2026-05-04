@@ -1,7 +1,9 @@
 ### 👋 Hi there, I'm Dani
 
 Full-stack engineer with a frontend core (Angular & React).
+
 I build products end-to-end, from interfaces to backend services, keeping things simple to maintain and solid enough to scale.
+
 Currently exploring how AI fits into real product workflows, not as a buzzword, but as actual infrastructure.
 
 ---
