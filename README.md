@@ -1,15 +1,18 @@
 ### 👋 Hi there, I'm Dani
 
-Frontend Engineer specialized in Angular and React.
-I care about architecture, clean abstractions, and interfaces that actually feel good to use.
-I work close to UX/UI, take testing seriously, and use AI-assisted workflows to move faster without losing the thread.
+Full-stack engineer with a frontend core (Angular & React).  
+I build products end-to-end, from interfaces to backend services, keeping 
+things simple enough to maintain and solid enough to scale.
+
+Currently exploring how AI fits into real product workflows: not as a buzzword, 
+but as actual infrastructure.
 
 ---
 
 - 🖥️ Currently building stuff at [Servinet](https://www.servinet.net/)
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
-- 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) — yes, I made the website too
+- 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) (yes, I made the website too)
 
 ---
 
