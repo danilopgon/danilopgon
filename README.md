@@ -1,14 +1,18 @@
-### 👋 Hi there, I'm Dani
+# Hi, I'm Dani 👋
 
-Full-stack engineer with a frontend core (Angular & React).
+Full-stack engineer with a strong frontend core.
 
-I build products end-to-end, from interfaces to backend services, keeping things simple to maintain and solid enough to scale.
+I build product-minded web applications with Angular, React, Next.js and TypeScript, moving across the stack when needed with Node.js, Python, APIs and databases.
 
-Currently exploring how AI fits into real product workflows, not as a buzzword, but as actual infrastructure.
+I care about clear interfaces, maintainable systems and pragmatic technical decisions.
+
+Lately, I’m exploring how AI fits into real product workflows: context, automation, review, agents and human-in-the-loop systems.
+
+I also build side projects, play in a band, and usually have something half-designed, half-deployed, and somehow still debugging
 
 ---
 
-- 🖥️ Currently building stuff at [Servinet](https://www.servinet.net/)
+- 🖥️ Currently working as a full-stack developer at [Servinet](https://www.servinet.net/)
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
 - 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) (yes, I made the website too)
