@@ -2,8 +2,6 @@
 
 Full-stack engineer with a strong frontend core.
 
-I build product-minded web applications with Angular, React, Next.js and TypeScript, moving across the stack when needed with Node.js, Python, APIs and databases.
-
 I care about clear interfaces, maintainable systems and pragmatic technical decisions.
 
 Lately, I’m exploring how AI fits into real product workflows: context, automation, review, agents and human-in-the-loop systems.
