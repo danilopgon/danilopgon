@@ -4,13 +4,13 @@ Full-stack engineer with a strong frontend core.
 
 I care about clear interfaces, maintainable systems and pragmatic technical decisions.
 
-Lately, I’m exploring how AI fits into real product workflows: context, automation, review, agents and human-in-the-loop systems.
+A growing part of my work is focused on Applied AI and developer tooling: agents, MCPs, context-aware workflows, automation and human-in-the-loop systems.
 
 I also build side projects, play in a band, and usually have something half-designed, half-deployed, and somehow still debugging
 
 ---
 
-- 🖥️ Currently working as a full-stack developer at [Servinet](https://www.servinet.net/)
+- 🖥️ Currently working as a full-stack developer at [Servinet](https://www.servinet.net/), mostly around frontend, architecture and developer tooling.
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
 - 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) (yes, I made the website too)
