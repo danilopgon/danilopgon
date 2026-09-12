@@ -2,11 +2,11 @@
 
 Full-stack engineer with a strong frontend core.
 
-I care about clear interfaces, maintainable systems and pragmatic technical decisions.
+I care about cool interfaces, maintainable systems and pragmatic technical decisions.
 
-A growing part of my work is focused on Applied AI and developer tooling: agents, MCPs, context-aware workflows, automation and human-in-the-loop systems.
+A growing part of my work is focused on Applied AI and developer tooling: agents, MCPs, context-aware workflows and automation.
 
-I also build side projects, play in a band, and usually have something half-designed, half-deployed, and somehow still debugging
+I play in a band, DM for my friends and usually have a side project half-designed and half-deployed.
 
 ---
 
