@@ -10,7 +10,7 @@ I play in a band, run Dungeons & Dragons campaigns for my friends and usually ha
 
 ---
 
-- 🖥️ Currently working as a full-stack developer at [Servinet](https://www.servinet.net/), mostly around frontend, architecture and developer tooling.
+- 🖥️ Working as a Full-Stack Developer at [Tecnología y Personas](https://www.tecnologiaypersonas.es/), focusing on frontend, backend, software architecture and developer tooling.
 - 📫 [Reach me here](mailto:contacto@danilopgon.com)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/danilopgon/?locale=en_US)
 - 🥁 Also drummer in [Hotel Sur](https://www.hotelsur.es/) (yes, I made the website too)
