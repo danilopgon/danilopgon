@@ -1,12 +1,12 @@
 # Hi, I'm Dani 👋
 
-Full-stack engineer with a strong frontend core.
+Full-stack engineer with a strong frontend background.
 
-I care about cool interfaces, maintainable systems and pragmatic technical decisions.
+I care about cool interfaces, well-designed APIs, maintainable systems and pragmatic technical decisions.
 
-A growing part of my work is focused on Applied AI and developer tooling: agents, MCPs, context-aware workflows and automation.
+**My work spans product engineering, Applied AI and developer tooling**, from building interfaces and APIs to agents, MCPs, context-aware workflows and automation.
 
-I play in a band, DM for my friends and usually have a side project half-designed and half-deployed.
+I play in a band, run Dungeons & Dragons campaigns for my friends and usually have a side project half-designed and half-deployed.
 
 ---
 
